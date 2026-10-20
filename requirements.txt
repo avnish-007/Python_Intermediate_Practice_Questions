@@ -1,0 +1,5 @@
+# The solutions use only the Python standard library (3.9+).
+# These are optional: only needed to open/run the notebook locally.
+jupyterlab>=4.0
+notebook>=7.0
+ipykernel>=6.0
